@@ -32,11 +32,24 @@
 
     最终，我选择了 jsPlumb，因为它完全开源，使用很简单，用 D3 的话可能会多花很多功夫。joint.js 也不错。大家可以根据自己的需要选择。
 
-3. canvas 画图播放视频
+3. canvas 画图及播放视频
 4. html5-flow-pic 画流程图
 5. js 基础
 6. 游戏
-7. [babel](https://babeljs.io/docs/en/)
+7. babel 笔记(https://babeljs.io/docs/en/)
+8. 名人博客收集
+9. 动画库收集
+10. 架构+脚手架
+11. 题目
+12. Mobx
+13. Redux
+14. express
+15. koa
+16. es6-7-8-9-10
+17. eslint
+18. Webgl
+19. vscode
+20. upload
 
 ## [各种开发文档大全](https://devdocs.io/)
 
