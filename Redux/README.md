@@ -1,5 +1,8 @@
 # [Redux](https://redux.js.org/)
 
+-   [react-redux](./react-redux.md)
+-   [Redux Starter Kit](./ReduxStarterKit.md)
+
 [开始学习的视频](https://egghead.io/courses/getting-started-with-redux)
 
 -   [Redux 入门教程 #1 课程介绍「05:29」](https://www.qiuzhi99.com/movies/redux-ru-men-jiao-cheng-1-ke-cheng-jie-shao)
