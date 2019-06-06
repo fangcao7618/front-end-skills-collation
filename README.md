@@ -124,6 +124,7 @@
 
 ## 前端学习地址和查询地址
 
+-   [各种开发文档大全](https://devdocs.io/)
 -   `[开发者手册](https://cloud.tencent.com/developer/devdocs)--腾讯云` 多看
 -   [知乎](https://www.zhihu.com/question/327763431/answer/705321309)
 -   [WordPress - 百度百科 全球最大中文百科全书](https://wordpress.org/)
@@ -179,10 +180,6 @@
 23. [WebAssembly]
 24. [electronjs](./electronjs/readme.md)桌面应用程序
 25. [UI 组件库](./UI组件库/readme.md)
-
-## [各种开发文档大全](https://devdocs.io/)
-
-https://devdocs.io/
 
 ## 推荐的经典的前端书籍
 

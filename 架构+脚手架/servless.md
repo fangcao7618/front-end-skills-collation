@@ -9,5 +9,5 @@ git 地址：https://github.com/serverless/serverless
 
 servless 云服务解决方案，让前端受益最大。应用只会无限增多，前端未来不愁，必然是下一个风口。
 
-关于微前端，有不同的风格，例如，我们可以使用 iframe 来组成最终的视图，或者使用 [Edge Side Include]() 或 [Client Side Include]()，甚至使用预渲染策略，如 [Open Components](https://opencomponents.github.io/) 或者 [Interface Framework]() 并将结果缓存在 CDN 级别上。
-另一种方法是使用一个协调器([orchestrator]())，它正在为 SPA，单个 HTML 页面或 SSR 应用程序提供服务，协调器可以处于边缘，起点或客户端，协调器的一个例子可以是[Single-SPA](https://single-spa.js.org/)。
+关于微前端，有不同的风格，例如，我们可以使用 iframe 来组成最终的视图，或者使用 [Edge Side Include 或 Client Side Include](https://gustafnk.github.io/microservice-websites/)，甚至使用预渲染策略，如 [Open Components](https://opencomponents.github.io/) 或者 [Interface Framework](https://jobs.zalando.com/tech/blog/front-end-micro-services/) 并将结果缓存在 CDN 级别上。
+另一种方法是使用一个协调器([orchestrator](https://medium.com/dazn-tech/orchestrating-micro-frontends-a5d2674cbf33))，它正在为 SPA，单个 HTML 页面或 SSR 应用程序提供服务，协调器可以处于边缘，起点或客户端，协调器的一个例子可以是[Single-SPA](https://single-spa.js.org/)。
