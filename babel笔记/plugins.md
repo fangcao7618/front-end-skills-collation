@@ -2,6 +2,8 @@
 
 ## babel 的那些库
 
+[babel 到底将代码转换成什么鸟样？](http://www.alloyteam.com/2016/05/babel-code-into-a-bird-like/)
+
 ["@babel/plugin-proposal-pipeline-operator", { "proposal": "minimal" }]
 
 babel-plugin-transform-function-bind

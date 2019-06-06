@@ -1,4 +1,28 @@
+-   [servless 微服务](./servless.md)
+-   [顶级 NodeJS 全栈业务开发框架 CabloyJS](./顶级NodeJS全栈业务开发框架.md)
+-   [MVC,MVP 和 MVVM 的图示](./MVC,MVP和MVVM的图示.md)
+
+# 框架
+
+-   [PWA](https://lavas.baidu.com/pwa/README) 是提升 Web App 的体验的一种新方法，能给用户原生应用的体验
+
+    例子：PWA 版本音乐 APP 手机 APP 安装点击一下链接获取安卓 APK https://gss0.bdstatic.com/9rkZbzqaKgQUohGko9WTAnF6hhy/assets/pwa/projects/1521211644728/lavas.app.lavas.HuoyinMusic.apk
+
+-
+
 如何开发类似 create-react-app 一样的脚手架
+
+一份真正成熟可靠的组件化方案，需要具备的能力：
+
+`“资源高内聚”`—— 组件资源内部高内聚，组件资源由自身加载控制
+
+`“作用域独立”`—— 内部结构密封，不与全局或其他组件产生影响
+
+`“自定义标签”`—— 定义组件的使用方式
+
+`“可相互组合”`—— 组件正在强大的地方，组件间组装整合
+
+`“接口规范化”`—— 组件接口有统一规范，或者是生命周期的管理
 
 目录：
 
