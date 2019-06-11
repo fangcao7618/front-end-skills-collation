@@ -4,3 +4,4 @@
 -   [d3](https://d3js.org/)--[git 地址](https://github.com/d3/d3/wiki/Gallery)
 -   [由 requestAnimationFrame 谈浏览器渲染优化](./由requestAnimationFrame谈浏览器渲染优化.md)
 -   [highlightjs](./ highlight.js.md)
+-   [NProgress.js](http://ricostacruz.com/nprogress/)

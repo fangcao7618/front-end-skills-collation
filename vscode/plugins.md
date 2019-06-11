@@ -228,3 +228,4 @@
 ```
 
 -   关闭 vscode 的语法验证:"javascript.validate.enable" : false
+-   vscode 主题背景设置
